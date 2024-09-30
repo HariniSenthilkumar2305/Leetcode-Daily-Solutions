@@ -13,4 +13,5 @@
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1179-game-play-analysis-i) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 <!---LeetCode Topics End-->
