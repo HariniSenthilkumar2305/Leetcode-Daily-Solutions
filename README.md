@@ -20,6 +20,7 @@
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
