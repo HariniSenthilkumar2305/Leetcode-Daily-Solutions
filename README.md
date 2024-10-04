@@ -15,4 +15,16 @@
 | [1174-sales-analysis-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1179-game-play-analysis-i) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
+## Array
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+## Hash Table
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+## String
+|  |
+| ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 <!---LeetCode Topics End-->
