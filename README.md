@@ -10,6 +10,7 @@
 | [0197-rising-temperature](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0197-rising-temperature) |
 | [0577-employee-bonus](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0584-find-customer-referee) |
+| [0595-big-countries](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1161-project-employees-i) |
