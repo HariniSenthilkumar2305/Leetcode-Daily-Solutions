@@ -45,6 +45,7 @@
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
