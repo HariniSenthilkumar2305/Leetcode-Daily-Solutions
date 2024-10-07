@@ -36,12 +36,14 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Math
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
@@ -52,6 +54,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
@@ -61,4 +64,8 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
