@@ -42,6 +42,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0069-sqrtx) |
@@ -61,6 +62,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 ## Sorting
 |  |
@@ -82,4 +84,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
