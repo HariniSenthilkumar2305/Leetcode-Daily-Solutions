@@ -34,6 +34,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 ## Math
