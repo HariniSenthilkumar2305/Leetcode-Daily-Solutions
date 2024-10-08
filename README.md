@@ -52,6 +52,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
@@ -88,5 +89,6 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
