@@ -38,6 +38,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
@@ -109,4 +110,8 @@
 | [0328-odd-even-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
