@@ -20,6 +20,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1827-invalid-tweets) |
+| [2110-employees-with-missing-information](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2110-employees-with-missing-information) |
 ## Array
 |  |
 | ------- |
