@@ -116,9 +116,18 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
