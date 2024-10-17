@@ -144,6 +144,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
@@ -169,6 +170,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
@@ -182,6 +184,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
 <!---LeetCode Topics End-->
