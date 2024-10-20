@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0020-valid-parentheses) |
+| [0038-count-and-say](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
