@@ -60,6 +60,7 @@
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
+| [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 ## Two Pointers
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
 |  |
 | ------- |
