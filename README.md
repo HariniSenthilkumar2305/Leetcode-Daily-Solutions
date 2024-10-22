@@ -50,6 +50,7 @@
 | [0058-length-of-last-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
+| [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Math
