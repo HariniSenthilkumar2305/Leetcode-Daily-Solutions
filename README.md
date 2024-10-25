@@ -27,6 +27,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0414-third-maximum-number) |
@@ -112,6 +113,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 ## Dynamic Programming
