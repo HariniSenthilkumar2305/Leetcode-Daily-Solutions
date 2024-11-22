@@ -17,6 +17,7 @@
 | [0595-big-countries](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0596-classes-more-than-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [0626-exchange-seats](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0626-exchange-seats) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1161-project-employees-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1174-sales-analysis-iii) |
