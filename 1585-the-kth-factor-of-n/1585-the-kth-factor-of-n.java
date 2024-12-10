@@ -10,7 +10,7 @@ class Solution {
             }
         }
      for(int i=0;i<a.size();i++){
-        if(i==k-1){
+        if(i+1==k){
             return a.get(i);
         }
      }
