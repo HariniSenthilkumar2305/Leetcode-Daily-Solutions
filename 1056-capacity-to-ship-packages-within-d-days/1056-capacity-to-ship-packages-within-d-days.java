@@ -4,6 +4,8 @@ class Solution {
         int max=0;
         for(int i=0;i<weights.length;i++){
             max+=weights[i];
+        }
+        for(int i=0;i<weights.length;i++){
         if(weights[i]>min){
            min=weights[i];
         }
