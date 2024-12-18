@@ -34,6 +34,7 @@
 | [0016-3sum-closest](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
@@ -136,6 +137,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -266,4 +268,8 @@
 |  |
 | ------- |
 | [1585-the-kth-factor-of-n](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1585-the-kth-factor-of-n) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
