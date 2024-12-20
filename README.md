@@ -34,6 +34,7 @@
 | [0016-3sum-closest](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0048-rotate-image](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -76,6 +77,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0069-sqrtx) |
@@ -282,4 +284,8 @@
 |  |
 | ------- |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
