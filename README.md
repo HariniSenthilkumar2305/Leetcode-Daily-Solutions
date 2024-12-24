@@ -45,6 +45,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0228-summary-ranges) |
@@ -64,6 +65,7 @@
 | [0141-linked-list-cycle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
@@ -141,6 +143,7 @@
 | [0016-3sum-closest](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0455-assign-cookies) |
@@ -286,6 +289,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 ## Monotonic Stack
 |  |
@@ -303,6 +307,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
 ## Sliding Window
 |  |
 | ------- |
