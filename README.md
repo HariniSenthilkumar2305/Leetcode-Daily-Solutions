@@ -38,6 +38,7 @@
 | [0048-rotate-image](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -137,6 +138,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0455-assign-cookies) |
