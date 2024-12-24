@@ -39,6 +39,7 @@
 | [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
