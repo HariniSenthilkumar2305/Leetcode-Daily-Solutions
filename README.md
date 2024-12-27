@@ -60,6 +60,7 @@
 | [0414-third-maximum-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0455-assign-cookies) |
+| [0503-next-greater-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -214,6 +215,7 @@
 | [0225-implement-stack-using-queues](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0445-add-two-numbers-ii) |
+| [0503-next-greater-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -309,6 +311,7 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0503-next-greater-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0503-next-greater-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
