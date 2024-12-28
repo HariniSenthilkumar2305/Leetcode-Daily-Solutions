@@ -50,6 +50,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0189-rotate-array) |
@@ -227,6 +228,7 @@
 | [0055-jump-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
