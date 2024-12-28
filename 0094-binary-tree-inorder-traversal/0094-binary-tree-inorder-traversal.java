@@ -20,10 +20,17 @@ class Solution {
        return result;
     }
 public void inorder(TreeNode node,List<Integer> result){
-    if(node!=null){
-    inorder(node.left,result);
-    result.add(node.val);
-     inorder(node.right,result);
-}
+  Stack<TreeNode>st=new Stack<>();
+  TreeNode current=node;
+  while(current!=null || !st.isEmpty()){
+    while(current!=null){
+        st.push(current);
+        current=current.left;
+    }
+    current=st.pop();
+    result.add(current.val);
+    //traverse through right
+    current=current.right;
+  }
 }
 }
