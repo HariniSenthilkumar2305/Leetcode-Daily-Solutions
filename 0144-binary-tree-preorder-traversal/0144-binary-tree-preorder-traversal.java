@@ -20,10 +20,19 @@ class Solution {
        return result;
     }
     private void preorder(TreeNode node,List<Integer> result){
+        Stack<TreeNode> stack = new Stack<>();
         if(node!=null){
-            result.add(node.val);
-            preorder(node.left,result);
-            preorder(node.right,result);
+        stack.push(node);
         }
+     while(!stack.isEmpty()){
+        TreeNode fst_ele=stack.pop();
+        result.add(fst_ele.val);
+        if(fst_ele.right!=null){
+            stack.push(fst_ele.right);
+        }
+        if(fst_ele.left!=null){
+            stack.push(fst_ele.left);
+        }
+     }
     }
 }
