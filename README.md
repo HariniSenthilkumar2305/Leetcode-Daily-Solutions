@@ -73,6 +73,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -88,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0038-count-and-say) |
@@ -104,6 +106,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
