@@ -269,6 +269,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -286,6 +287,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -302,6 +304,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -317,6 +320,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Search Tree
 |  |
 | ------- |
