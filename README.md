@@ -100,6 +100,7 @@
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -269,6 +270,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -287,6 +289,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -304,6 +307,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -371,6 +375,7 @@
 | [0046-permutations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Union Find
 |  |
