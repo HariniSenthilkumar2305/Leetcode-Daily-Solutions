@@ -279,6 +279,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -298,6 +299,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -320,6 +322,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -333,6 +336,7 @@
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
