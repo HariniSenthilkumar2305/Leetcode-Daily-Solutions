@@ -96,6 +96,7 @@
 | [0014-longest-common-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
@@ -133,6 +134,7 @@
 | [0016-3sum-closest](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0141-linked-list-cycle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
@@ -408,4 +410,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
