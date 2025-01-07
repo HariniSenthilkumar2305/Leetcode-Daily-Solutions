@@ -35,6 +35,7 @@
 | [0016-3sum-closest](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0036-valid-sudoku](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
@@ -81,6 +82,7 @@
 | [0012-integer-to-roman](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0036-valid-sudoku) |
 | [0128-longest-consecutive-sequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -408,6 +410,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
