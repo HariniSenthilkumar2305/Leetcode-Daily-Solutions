@@ -73,6 +73,7 @@
 | [0739-daily-temperatures](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0739-daily-temperatures) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1127-last-stone-weight) |
 ## Hash Table
 |  |
@@ -321,6 +322,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0975-range-sum-of-bst](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0975-range-sum-of-bst) |
+| [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1254-deepest-leaves-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -362,6 +364,7 @@
 | [0226-invert-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 | [1254-deepest-leaves-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1254-deepest-leaves-sum) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
@@ -405,6 +408,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0048-rotate-image) |
 | [0200-number-of-islands](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -422,6 +426,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0200-number-of-islands) |
+| [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 ## Randomized
 |  |
 | ------- |
