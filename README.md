@@ -140,6 +140,7 @@
 | [0189-rotate-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
+| [0263-ugly-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
