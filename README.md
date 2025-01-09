@@ -144,6 +144,7 @@
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
@@ -194,6 +195,7 @@
 | [0206-reverse-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
