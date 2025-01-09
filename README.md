@@ -180,6 +180,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
