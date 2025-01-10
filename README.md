@@ -227,6 +227,7 @@
 | [0074-search-a-2d-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0278-first-bad-version) |
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -485,4 +486,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
