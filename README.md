@@ -103,6 +103,7 @@
 | [0205-isomorphic-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -132,6 +133,7 @@
 | [0205-isomorphic-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0392-is-subsequence) |
 | [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
