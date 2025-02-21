@@ -165,6 +165,7 @@
 | [0292-nim-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -255,6 +256,7 @@
 | [0278-first-bad-version](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
