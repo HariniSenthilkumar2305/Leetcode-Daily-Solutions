@@ -27,6 +27,7 @@
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1734-bank-account-summary-ii) |
 | [1827-invalid-tweets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1827-invalid-tweets) |
+| [1948-rearrange-products-table](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1948-rearrange-products-table) |
 | [2110-employees-with-missing-information](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2110-employees-with-missing-information) |
 | [3782-find-valid-emails](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3803-find-products-with-valid-serial-numbers) |
