@@ -29,6 +29,7 @@
 | [1827-invalid-tweets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1827-invalid-tweets) |
 | [1948-rearrange-products-table](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1948-rearrange-products-table) |
 | [2110-employees-with-missing-information](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2110-employees-with-missing-information) |
+| [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Array
