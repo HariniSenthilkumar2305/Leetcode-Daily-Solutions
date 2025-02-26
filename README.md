@@ -23,6 +23,7 @@
 | [1161-project-employees-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1161-project-employees-i) |
 | [1174-sales-analysis-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1174-sales-analysis-iii) |
 | [1179-game-play-analysis-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1179-game-play-analysis-i) |
+| [1268-market-analysis-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1268-market-analysis-i) |
 | [1278-product-price-at-a-given-date](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1278-product-price-at-a-given-date) |
 | [1338-queries-quality-and-percentage](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
