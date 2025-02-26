@@ -26,6 +26,7 @@
 | [1338-queries-quality-and-percentage](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1338-queries-quality-and-percentage) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1734-bank-account-summary-ii) |
+| [1801-average-time-of-process-per-machine](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1948-rearrange-products-table) |
