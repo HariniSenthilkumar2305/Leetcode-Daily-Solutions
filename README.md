@@ -33,6 +33,7 @@
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1948-rearrange-products-table) |
+| [2041-the-latest-login-in-2020](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2041-the-latest-login-in-2020) |
 | [2110-employees-with-missing-information](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2110-employees-with-missing-information) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 | [3782-find-valid-emails](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3782-find-valid-emails) |
