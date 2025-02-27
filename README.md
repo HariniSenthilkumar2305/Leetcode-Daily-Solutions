@@ -83,6 +83,7 @@
 | [0228-summary-ranges](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -358,6 +359,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0303-range-sum-query-immutable](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Queue
 |  |
@@ -534,6 +536,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Trie
 |  |
