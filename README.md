@@ -173,6 +173,7 @@
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0089-gray-code) |
 | [0189-rotate-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
@@ -509,6 +511,7 @@
 | [0046-permutations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0089-gray-code) |
 | [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Union Find
