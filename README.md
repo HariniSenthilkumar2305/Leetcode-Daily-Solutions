@@ -199,6 +199,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0086-partition-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
@@ -305,6 +306,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0086-partition-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0086-partition-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0142-linked-list-cycle-ii) |
