@@ -36,6 +36,7 @@
 | [1908-recyclable-and-low-fat-products](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1908-recyclable-and-low-fat-products) |
 | [1948-rearrange-products-table](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1948-rearrange-products-table) |
 | [2041-the-latest-login-in-2020](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2041-the-latest-login-in-2020) |
+| [2057-count-salary-categories](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2057-count-salary-categories) |
 | [2087-confirmation-rate](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2087-confirmation-rate) |
 | [2110-employees-with-missing-information](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
