@@ -41,6 +41,7 @@
 | [2110-employees-with-missing-information](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3767-find-students-who-improved](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3767-find-students-who-improved) |
 | [3782-find-valid-emails](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3803-find-products-with-valid-serial-numbers) |
 ## Array
