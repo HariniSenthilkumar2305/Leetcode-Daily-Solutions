@@ -159,6 +159,7 @@
 | [0058-length-of-last-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0071-simplify-path) |
+| [0072-edit-distance](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0205-isomorphic-strings) |
@@ -314,6 +315,7 @@
 | [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0072-edit-distance) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0198-house-robber) |
