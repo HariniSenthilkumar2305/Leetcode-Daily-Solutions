@@ -168,6 +168,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0415-add-strings) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
