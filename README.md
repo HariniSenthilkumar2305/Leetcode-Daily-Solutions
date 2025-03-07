@@ -213,6 +213,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1585-the-kth-factor-of-n](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3371-harshad-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3371-harshad-number) |
 ## Two Pointers
 |  |
 | ------- |
