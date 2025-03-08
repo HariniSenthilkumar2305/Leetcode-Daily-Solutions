@@ -46,6 +46,7 @@
 | [3767-find-students-who-improved](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3767-find-students-who-improved) |
 | [3782-find-valid-emails](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3782-find-valid-emails) |
 | [3803-find-products-with-valid-serial-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3803-find-products-with-valid-serial-numbers) |
+| [3816-dna-pattern-recognition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3816-dna-pattern-recognition) |
 ## Array
 |  |
 | ------- |
