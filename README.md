@@ -122,6 +122,7 @@
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
 |  |
@@ -155,6 +156,7 @@
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
 |  |
@@ -278,6 +280,7 @@
 | [0338-counting-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0476-number-complement) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
 |  |
