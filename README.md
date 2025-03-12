@@ -117,6 +117,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
@@ -153,6 +154,7 @@
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -573,6 +575,7 @@
 | [0200-number-of-islands](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0200-number-of-islands) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 ## Backtracking
