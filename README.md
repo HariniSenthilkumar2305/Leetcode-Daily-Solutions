@@ -286,6 +286,7 @@
 | [0338-counting-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
 | [0476-number-complement](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Recursion
