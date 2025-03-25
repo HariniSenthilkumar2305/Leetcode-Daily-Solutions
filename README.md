@@ -109,6 +109,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0697-degree-of-an-array) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
