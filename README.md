@@ -204,6 +204,7 @@
 | [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0782-jewels-and-stones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0782-jewels-and-stones) |
+| [0851-goat-latin](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0851-goat-latin) |
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
