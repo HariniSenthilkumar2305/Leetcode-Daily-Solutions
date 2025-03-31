@@ -115,6 +115,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -162,6 +163,7 @@
 | [0697-degree-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0782-jewels-and-stones) |
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
+| [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -333,6 +335,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -363,6 +366,7 @@
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
+| [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 ## Dynamic Programming
