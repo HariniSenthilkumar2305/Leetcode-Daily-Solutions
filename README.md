@@ -114,6 +114,7 @@
 | [0739-daily-temperatures](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
@@ -164,6 +165,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0697-degree-of-an-array) |
 | [0782-jewels-and-stones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0782-jewels-and-stones) |
+| [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
@@ -418,6 +420,7 @@
 | [0328-odd-even-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
@@ -457,6 +460,7 @@
 | [0225-implement-stack-using-queues](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -683,4 +687,8 @@
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1203-print-in-order) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
