@@ -120,6 +120,7 @@
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0944-smallest-range-i) |
+| [0958-sort-array-by-parity-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
@@ -296,6 +297,7 @@
 | [0541-reverse-string-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
@@ -346,6 +348,7 @@
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
