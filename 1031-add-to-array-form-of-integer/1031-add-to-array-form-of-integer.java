@@ -9,7 +9,6 @@ class Solution {
             a.append(num[i]);
         }
 
-        // Use BigInteger instead of int
         BigInteger bigNum = new BigInteger(a.toString());
         BigInteger sum = bigNum.add(BigInteger.valueOf(k));
 
