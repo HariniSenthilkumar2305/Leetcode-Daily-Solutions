@@ -104,6 +104,7 @@
 | [0495-teemo-attacking](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0495-teemo-attacking) |
 | [0500-keyboard-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -355,6 +356,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -600,6 +602,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1127-last-stone-weight) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 ## Number Theory
