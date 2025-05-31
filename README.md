@@ -108,6 +108,7 @@
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -261,6 +262,7 @@
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0504-base-7) |
+| [0598-range-addition-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0728-self-dividing-numbers) |
 | [0944-smallest-range-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0944-smallest-range-i) |
