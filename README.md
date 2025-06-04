@@ -220,6 +220,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0415-add-strings) |
+| [0459-repeated-substring-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0500-keyboard-row) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0541-reverse-string-ii) |
@@ -683,6 +684,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Bucket Sort
 |  |
 | ------- |
