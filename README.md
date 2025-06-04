@@ -211,6 +211,7 @@
 | [0072-edit-distance](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
@@ -413,6 +414,7 @@
 | [0072-edit-distance](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0198-house-robber) |
 | [0338-counting-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0338-counting-bits) |
@@ -652,6 +654,7 @@
 | [0077-combinations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0077-combinations) |
 | [0089-gray-code](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Union Find
