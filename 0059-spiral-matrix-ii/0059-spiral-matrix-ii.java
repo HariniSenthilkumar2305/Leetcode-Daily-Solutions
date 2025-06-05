@@ -1,37 +1,37 @@
 class Solution {
     public int[][] generateMatrix(int n) {
-        int result[][] = new int[n][n];
-        int num = 1;
-
-        int top=0, bottom=n-1;
-        int left=0, right=n-1;
-
-        while(top<=bottom && left<=right){
-            for(int i=left; i<=right; i++){
-                result[top][i] = num;
-                num++;
+        int[][] mat=new int[n][n];
+        if(n==1){
+            mat[0][0]=1;
+            return mat;
+        }
+        int cnt=0;
+        int right=n-1;
+        int left=0;
+        int top=0;
+        int bottom=n-1;
+        while(top<=bottom && left<=right){//right
+            for(int i=left;i<=right;i++){
+                cnt+=1;
+                mat[top][i]=cnt;
             }
             top++;
-            for(int i=top; i<=bottom; i++){
-                result[i][right] = num;
-                num++;
+            for(int i=top;i<=bottom;i++){//bottom
+                cnt+=1;
+                mat[i][right]=cnt;
             }
             right--;
-            if(top<=bottom){
-                for(int i=right; i>=left; i--){
-                    result[bottom][i] = num;
-                    num++;
-                }
-                bottom--;
+            for(int i=right;i>=left;i--){
+                cnt+=1;
+                mat[bottom][i]=cnt;
             }
-            if(left<=right){
-                for(int i=bottom; i>=top; i--){
-                    result[i][left] = num;
-                    num++;
-                }
-                left++;
+            bottom--;
+            for(int i=bottom;i>=top;i--){
+                cnt+=1;
+                mat[i][left]=cnt;
             }
+            left++;
         }
-        return result;
+        return mat;
     }
 }
