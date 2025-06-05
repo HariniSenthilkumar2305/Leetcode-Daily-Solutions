@@ -21,12 +21,12 @@ class Solution {
                 mat[i][right]=cnt;
             }
             right--;
-            for(int i=right;i>=left;i--){
+            for(int i=right;i>=left;i--){//left
                 cnt+=1;
                 mat[bottom][i]=cnt;
             }
             bottom--;
-            for(int i=bottom;i>=top;i--){
+            for(int i=bottom;i>=top;i--){//top
                 cnt+=1;
                 mat[i][left]=cnt;
             }
