@@ -139,6 +139,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1287-distance-between-bus-stops) |
 | [1319-unique-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -187,6 +188,7 @@
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -239,6 +241,7 @@
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
@@ -377,6 +380,7 @@
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
