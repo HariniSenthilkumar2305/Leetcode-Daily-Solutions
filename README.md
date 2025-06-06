@@ -92,6 +92,7 @@
 | [0200-number-of-islands](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -426,6 +427,7 @@
 | [0131-palindrome-partitioning](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0392-is-subsequence) |
 ## Memoization
@@ -650,6 +652,7 @@
 | [0073-set-matrix-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0221-maximal-square) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
