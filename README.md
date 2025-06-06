@@ -96,6 +96,7 @@
 | [0228-summary-ranges](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -400,6 +401,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -634,6 +636,7 @@
 | [0053-maximum-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
@@ -653,6 +656,7 @@
 | [0074-search-a-2d-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
