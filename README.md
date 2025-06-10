@@ -235,6 +235,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0415-add-strings) |
 | [0459-repeated-substring-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0500-keyboard-row) |
@@ -277,6 +278,7 @@
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0367-valid-perfect-square) |
 | [0380-insert-delete-getrandom-o1](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [0412-fizz-buzz](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -398,6 +400,7 @@
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
