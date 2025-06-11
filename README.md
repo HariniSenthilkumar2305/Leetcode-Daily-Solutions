@@ -114,6 +114,7 @@
 | [0500-keyboard-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0506-relative-ranks) |
+| [0560-subarray-sum-equals-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -184,6 +185,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0697-degree-of-an-array) |
@@ -720,6 +722,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1603-running-sum-of-1d-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1603-running-sum-of-1d-array) |
 ## Trie
