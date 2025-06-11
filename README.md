@@ -99,6 +99,7 @@
 | [0238-product-of-array-except-self](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
@@ -175,6 +176,7 @@
 | [0219-contains-duplicate-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -273,6 +275,7 @@
 | [0202-happy-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
@@ -346,6 +349,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0268-missing-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
@@ -378,6 +382,7 @@
 | [0169-majority-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -418,6 +423,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
