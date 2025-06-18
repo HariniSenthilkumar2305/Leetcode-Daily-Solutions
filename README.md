@@ -231,6 +231,7 @@
 | [0139-word-break](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0214-shortest-palindrome) |
 | [0242-valid-anagram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0290-word-pattern) |
@@ -736,6 +737,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0459-repeated-substring-pattern) |
 ## Bucket Sort
 |  |
@@ -773,9 +775,14 @@
 ## Hash Function
 |  |
 | ------- |
+| [0214-shortest-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0214-shortest-palindrome) |
 | [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 ## Radix Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0164-maximum-gap) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
