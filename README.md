@@ -156,6 +156,7 @@
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
+| [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -205,6 +206,7 @@
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
+| [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -265,6 +267,7 @@
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3567-convert-date-to-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Math
@@ -468,6 +471,7 @@
 | [0338-counting-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0392-is-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0474-ones-and-zeroes) |
+| [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## Memoization
 |  |
 | ------- |
@@ -743,6 +747,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0139-word-break) |
+| [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
 | ------- |
