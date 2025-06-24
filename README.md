@@ -264,6 +264,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3567-convert-date-to-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3567-convert-date-to-binary) |
 ## Math
@@ -349,6 +350,7 @@
 | [1168-duplicate-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1168-duplicate-zeros) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -531,6 +533,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1448-maximum-69-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1448-maximum-69-number) |
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Design
 |  |
 | ------- |
