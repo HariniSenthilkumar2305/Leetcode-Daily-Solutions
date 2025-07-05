@@ -328,6 +328,7 @@
 | [3371-harshad-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
@@ -389,6 +390,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
@@ -403,6 +405,7 @@
 | [0234-palindrome-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
 |  |
@@ -449,6 +452,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Binary Search
 |  |
 | ------- |
