@@ -316,6 +316,7 @@
 | [3371-harshad-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3371-harshad-number) |
 | [3567-convert-date-to-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -376,6 +377,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | [0234-palindrome-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0342-power-of-four) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Sorting
 |  |
 | ------- |
