@@ -162,6 +162,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2350-find-closest-number-to-zero](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2350-find-closest-number-to-zero) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
