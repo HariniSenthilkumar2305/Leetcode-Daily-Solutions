@@ -153,6 +153,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -713,6 +714,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1755-defuse-the-bomb](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1755-defuse-the-bomb) |
 ## Matrix
 |  |
 | ------- |
