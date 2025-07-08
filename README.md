@@ -128,6 +128,7 @@
 | [0739-daily-temperatures](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0749-shortest-completing-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0749-shortest-completing-word) |
 | [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -207,6 +208,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0697-degree-of-an-array) |
+| [0749-shortest-completing-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
@@ -277,6 +279,7 @@
 | [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0749-shortest-completing-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0851-goat-latin) |
 | [0857-positions-of-large-groups](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0857-positions-of-large-groups) |
