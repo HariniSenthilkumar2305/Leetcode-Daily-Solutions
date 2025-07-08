@@ -135,6 +135,7 @@
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0944-smallest-range-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0944-smallest-range-i) |
 | [0958-sort-array-by-parity-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [0981-delete-columns-to-make-sorted](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1031-add-to-array-form-of-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -282,6 +283,7 @@
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0981-delete-columns-to-make-sorted](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0981-delete-columns-to-make-sorted) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1156-occurrences-after-bigram) |
 | [1283-reformat-date](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1283-reformat-date) |
