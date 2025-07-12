@@ -78,6 +78,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0090-subsets-ii) |
+| [0118-pascals-triangle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0134-gas-station) |
@@ -520,6 +521,7 @@
 | [0070-climbing-stairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0097-interleaving-string) |
+| [0118-pascals-triangle](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0139-word-break) |
