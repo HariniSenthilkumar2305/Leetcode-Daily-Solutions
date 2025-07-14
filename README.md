@@ -348,6 +348,7 @@
 | [0944-smallest-range-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1448-maximum-69-number) |
 | [1585-the-kth-factor-of-n](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1585-the-kth-factor-of-n) |
@@ -563,6 +564,7 @@
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
