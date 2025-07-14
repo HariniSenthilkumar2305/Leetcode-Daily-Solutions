@@ -156,6 +156,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1646-kth-missing-positive-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
@@ -508,6 +509,7 @@
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1646-kth-missing-positive-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1646-kth-missing-positive-number) |
 ## Dynamic Programming
 |  |
 | ------- |
