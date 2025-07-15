@@ -179,6 +179,7 @@
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Hash Table
@@ -237,6 +238,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## String
@@ -356,6 +358,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3371-harshad-number) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3567-convert-date-to-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3567-convert-date-to-binary) |
 | [3568-find-the-key-of-the-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -727,6 +730,7 @@
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2433-best-poker-hand) |
+| [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 ## Monotonic Stack
 |  |
 | ------- |
