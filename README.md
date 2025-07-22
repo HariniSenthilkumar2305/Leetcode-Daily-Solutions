@@ -162,6 +162,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1755-defuse-the-bomb](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
@@ -233,6 +234,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
@@ -789,6 +791,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 ## Matrix
 |  |
 | ------- |
