@@ -184,6 +184,7 @@
 | [2727-number-of-senior-citizens](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -332,6 +333,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3396-valid-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3396-valid-word) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3567-convert-date-to-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3567-convert-date-to-binary) |
