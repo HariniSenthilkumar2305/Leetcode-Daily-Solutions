@@ -166,6 +166,7 @@
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -449,6 +450,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -840,6 +842,7 @@
 | [0131-palindrome-partitioning](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0257-binary-tree-paths) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Union Find
 |  |
@@ -905,6 +908,7 @@
 |  |
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 ## Concurrency
 |  |
