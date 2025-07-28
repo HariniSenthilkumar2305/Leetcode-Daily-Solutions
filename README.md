@@ -177,6 +177,7 @@
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2433-best-poker-hand) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -247,6 +248,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2433-best-poker-hand](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2433-best-poker-hand) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
