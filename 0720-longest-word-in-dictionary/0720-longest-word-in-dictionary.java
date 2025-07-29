@@ -29,9 +29,9 @@ class Solution {
        for(int k=0;k<st1.length;k++){
         String word=st1[k];
         boolean iscon=true;
-        for(int i=1;i<=word.length();i++){
+        for(int i=1;i<=word.length()-1;i++){
                 String subword=word.substring(0,i);
-                if(!st.containsKey(subword) && i!=word.length()){
+                if(!st.containsKey(subword)){
                     iscon=false;
                     break;
                 }
