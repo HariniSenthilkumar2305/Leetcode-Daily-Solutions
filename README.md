@@ -126,6 +126,7 @@
 | [0674-longest-continuous-increasing-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0720-longest-word-in-dictionary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0739-daily-temperatures](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0739-daily-temperatures) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -226,6 +227,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0697-degree-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0697-degree-of-an-array) |
+| [0720-longest-word-in-dictionary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0782-jewels-and-stones) |
 | [0817-design-hashmap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0817-design-hashmap) |
@@ -303,6 +305,7 @@
 | [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0720-longest-word-in-dictionary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0749-shortest-completing-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0749-shortest-completing-word) |
 | [0782-jewels-and-stones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0782-jewels-and-stones) |
 | [0851-goat-latin](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0851-goat-latin) |
@@ -492,6 +495,7 @@
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0720-longest-word-in-dictionary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -869,6 +873,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0139-word-break) |
+| [0720-longest-word-in-dictionary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0720-longest-word-in-dictionary) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 ## String Matching
 |  |
