@@ -187,6 +187,7 @@
 | [2727-number-of-senior-citizens](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
@@ -256,6 +257,7 @@
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -343,6 +345,7 @@
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2727-number-of-senior-citizens](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3207-make-three-strings-equal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3207-make-three-strings-equal) |
 | [3396-valid-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3396-valid-word) |
@@ -527,6 +530,7 @@
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
