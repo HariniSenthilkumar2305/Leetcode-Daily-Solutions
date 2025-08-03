@@ -196,6 +196,7 @@
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -401,6 +402,7 @@
 | [3568-find-the-key-of-the-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3568-find-the-key-of-the-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
