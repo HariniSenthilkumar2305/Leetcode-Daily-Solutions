@@ -330,6 +330,7 @@
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1666-make-the-string-great) |
+| [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1764-maximum-repeating-substring](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-reformat-phone-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1812-reformat-phone-number) |
