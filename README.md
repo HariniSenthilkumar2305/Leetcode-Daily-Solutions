@@ -167,6 +167,7 @@
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
