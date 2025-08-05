@@ -169,6 +169,7 @@
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2181-smallest-index-with-equal-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2181-smallest-index-with-equal-value) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
