@@ -194,6 +194,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3397-find-the-integer-added-to-array-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
