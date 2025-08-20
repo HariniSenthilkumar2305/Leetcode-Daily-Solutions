@@ -250,6 +250,7 @@
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
@@ -340,6 +341,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
+| [2186-count-vowel-substrings-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
