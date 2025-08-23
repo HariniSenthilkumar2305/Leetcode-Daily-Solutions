@@ -359,6 +359,7 @@
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 | [3567-convert-date-to-binary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3567-convert-date-to-binary) |
 | [3617-find-the-original-typed-string-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3617-find-the-original-typed-string-i) |
+| [3709-find-special-substring-of-length-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3709-find-special-substring-of-length-k) |
 ## Math
 |  |
 | ------- |
