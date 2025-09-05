@@ -166,6 +166,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
