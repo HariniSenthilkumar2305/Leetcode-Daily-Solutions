@@ -155,6 +155,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1603-running-sum-of-1d-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1646-kth-missing-positive-number) |
@@ -333,6 +334,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1454-remove-palindromic-subsequences) |
+| [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
@@ -908,6 +910,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0214-shortest-palindrome) |
 | [0459-repeated-substring-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0459-repeated-substring-pattern) |
+| [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1764-maximum-repeating-substring](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bucket Sort
