@@ -204,6 +204,7 @@
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
