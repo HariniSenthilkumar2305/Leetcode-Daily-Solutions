@@ -203,6 +203,7 @@
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -276,6 +277,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -820,6 +822,7 @@
 | [2427-first-letter-to-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2427-first-letter-to-appear-twice) |
 | [2433-best-poker-hand](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2433-best-poker-hand) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Monotonic Stack
