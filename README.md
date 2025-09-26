@@ -153,6 +153,7 @@
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -255,6 +256,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
