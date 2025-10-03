@@ -200,6 +200,7 @@
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2870-longest-alternating-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2870-longest-alternating-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
@@ -972,6 +973,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [2870-longest-alternating-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2870-longest-alternating-subarray) |
 ## Concurrency
 |  |
 | ------- |
