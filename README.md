@@ -195,6 +195,7 @@
 | [2480-find-subarrays-with-equal-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2589-maximum-value-of-a-string-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2589-maximum-value-of-a-string-in-an-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2727-number-of-senior-citizens](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -425,6 +426,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1585-the-kth-factor-of-n) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3371-harshad-number) |
