@@ -352,6 +352,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
+| [1542-consecutive-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1542-consecutive-characters) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
