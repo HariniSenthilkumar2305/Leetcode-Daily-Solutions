@@ -348,6 +348,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1156-occurrences-after-bigram) |
+| [1260-day-of-the-year](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1283-reformat-date) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -424,6 +425,7 @@
 | [0944-smallest-range-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0944-smallest-range-i) |
 | [1031-add-to-array-form-of-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1031-add-to-array-form-of-integer) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1260-day-of-the-year](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1260-day-of-the-year) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
