@@ -366,6 +366,7 @@
 | [1812-reformat-phone-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1812-reformat-phone-number) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2173-number-of-valid-words-in-a-sentence) |
