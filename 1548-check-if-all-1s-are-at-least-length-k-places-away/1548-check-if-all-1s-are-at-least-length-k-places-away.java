@@ -1,26 +1,28 @@
 class Solution {
     public boolean kLengthApart(int[] nums, int k) {
-        int l=0;
-        int r=0;
-        int i=0;
-        while(i<nums.length){
-            boolean val=false;
+        int cnt=0;
+        for(int i=0;i<nums.length;i++){
             if(nums[i]==1){
-                for(int j=i+1;j<nums.length;j++){
-                    if(nums[j]==1){
-                        if(j-i-1<k){
-                            return false;
-                        }
-                        else if(j-i-1>=k){
-                            i=j-1;
-                            val=true;
-                            break;
-                        }
-                    }
-                }
+                cnt++;
             }
-            i++;
         }
-        return true;
+        int[] arr=new int[cnt];
+        int idx=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]==1){
+               arr[idx++]=i;
+            }
+        }
+        boolean val=true;
+        for(int i=1;i<arr.length;i++){
+                if((arr[i]-arr[i-1]-1)<k){
+                    val=false;
+                    return val;
+                }
+                else{
+                    continue;
+                }
+        }
+        return val;
     }
 }
