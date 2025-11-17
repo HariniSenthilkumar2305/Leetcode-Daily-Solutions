@@ -266,6 +266,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -362,6 +363,7 @@
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1666-make-the-string-great) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
+| [1746-largest-substring-between-two-equal-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
 | [1764-maximum-repeating-substring](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1764-maximum-repeating-substring) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1812-reformat-phone-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1812-reformat-phone-number) |
