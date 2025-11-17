@@ -158,6 +158,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1505-create-target-array-in-the-given-order](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -584,6 +585,7 @@
 | [0415-add-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
+| [1505-create-target-array-in-the-given-order](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
