@@ -149,6 +149,7 @@
 | [1168-duplicate-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1287-distance-between-bus-stops) |
+| [1306-minimum-absolute-difference](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
@@ -560,6 +561,7 @@
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
 | [0941-sort-array-by-parity](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0958-sort-array-by-parity-ii) |
+| [1306-minimum-absolute-difference](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1306-minimum-absolute-difference) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
