@@ -207,6 +207,7 @@
 | [2737-row-with-maximum-ones](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2756-buy-two-chocolates](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2870-longest-alternating-subarray](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2870-longest-alternating-subarray) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -583,6 +584,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2756-buy-two-chocolates](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2836-neither-minimum-nor-maximum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2836-neither-minimum-nor-maximum) |
 | [3226-minimum-number-game](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3226-minimum-number-game) |
 ## Simulation
 |  |
