@@ -383,6 +383,7 @@
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
+| [2128-reverse-prefix-of-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2173-number-of-valid-words-in-a-sentence) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -506,6 +507,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1894-merge-strings-alternately) |
+| [2128-reverse-prefix-of-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -714,6 +716,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1666-make-the-string-great) |
+| [2128-reverse-prefix-of-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2128-reverse-prefix-of-word) |
 ## Greedy
 |  |
 | ------- |
