@@ -391,6 +391,7 @@
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2427-first-letter-to-appear-twice](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2427-first-letter-to-appear-twice) |
@@ -608,6 +609,7 @@
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
 | [2058-concatenation-of-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
