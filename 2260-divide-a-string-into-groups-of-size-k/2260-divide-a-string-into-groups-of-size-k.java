@@ -1,7 +1,7 @@
 class Solution {
     public String[] divideString(String s, int k, char fill) {
         List<String>l=new ArrayList<>();
-        int a=0;
+        int a=-1;
         for(int i=0;i<s.length();i+=k){
             int len=i+k;
             if(len<=s.length()){
@@ -13,7 +13,7 @@ class Solution {
                 break;
             }
         }
-        if(a<s.length() && a!=0){
+        if(a!=-1){
             StringBuilder st=new StringBuilder();
             for(int i=a;i<s.length();i++){
                 st.append(s.charAt(i));
