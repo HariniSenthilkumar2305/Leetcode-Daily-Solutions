@@ -298,6 +298,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -414,6 +415,7 @@
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3194-find-words-containing-character) |
 | [3207-make-three-strings-equal](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3207-make-three-strings-equal) |
