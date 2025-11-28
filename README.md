@@ -388,6 +388,7 @@
 | [1812-reformat-phone-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1812-reformat-phone-number) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -622,6 +623,7 @@
 | [0495-teemo-attacking](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1505-create-target-array-in-the-given-order) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2058-concatenation-of-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2058-concatenation-of-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
