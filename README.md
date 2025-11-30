@@ -190,6 +190,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -401,6 +402,7 @@
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2243-check-if-all-as-appears-before-all-bs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2243-check-if-all-as-appears-before-all-bs) |
+| [2255-count-prefixes-of-a-given-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
