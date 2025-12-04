@@ -268,6 +268,7 @@
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
+| [1189-maximum-number-of-balloons](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
@@ -367,6 +368,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1156-occurrences-after-bigram) |
+| [1189-maximum-number-of-balloons](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1260-day-of-the-year](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1283-reformat-date) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -885,6 +887,7 @@
 | [0561-array-partition](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1189-maximum-number-of-balloons](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
