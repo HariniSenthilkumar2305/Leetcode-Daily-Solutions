@@ -421,6 +421,7 @@
 | [2727-number-of-senior-citizens](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [2755-extra-characters-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2755-extra-characters-in-a-string) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [2864-maximum-odd-binary-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [2999-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2999-check-if-strings-can-be-made-equal-with-operations-i) |
 | [3019-number-of-changing-keys](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3019-number-of-changing-keys) |
@@ -480,6 +481,7 @@
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2679-count-distinct-numbers-on-board](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2679-count-distinct-numbers-on-board) |
+| [2864-maximum-odd-binary-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3227-find-missing-and-repeated-values](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3371-harshad-number) |
 | [3416-sum-of-digit-differences-of-all-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3416-sum-of-digit-differences-of-all-pairs) |
@@ -772,6 +774,7 @@
 | [2487-optimal-partition-of-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2487-optimal-partition-of-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2756-buy-two-chocolates](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2756-buy-two-chocolates) |
+| [2864-maximum-odd-binary-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2864-maximum-odd-binary-number) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Design
 |  |
