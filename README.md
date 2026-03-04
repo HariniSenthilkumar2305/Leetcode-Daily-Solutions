@@ -381,6 +381,7 @@
 | [1542-consecutive-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1592-rearrange-spaces-between-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
 | [1666-make-the-string-great](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1666-make-the-string-great) |
