@@ -274,6 +274,7 @@
 | [1319-unique-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1370-increasing-decreasing-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -375,6 +376,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
+| [1370-increasing-decreasing-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1454-remove-palindromic-subsequences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
@@ -898,6 +900,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
+| [1370-increasing-decreasing-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
