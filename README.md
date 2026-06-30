@@ -176,6 +176,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -405,6 +406,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1954-replace-all-digits-with-characters) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
@@ -547,6 +549,7 @@
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1894-merge-strings-alternately](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2128-reverse-prefix-of-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2231-find-first-palindromic-string-in-the-array) |
