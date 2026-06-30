@@ -187,6 +187,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2181-smallest-index-with-equal-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2181-smallest-index-with-equal-value) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2215-finding-3-digit-even-numbers](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -415,6 +416,7 @@
 | [2128-reverse-prefix-of-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2128-reverse-prefix-of-word) |
 | [2168-check-if-numbers-are-ascending-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2168-check-if-numbers-are-ascending-in-a-sentence) |
 | [2173-number-of-valid-words-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2173-number-of-valid-words-in-a-sentence) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2219-maximum-number-of-words-found-in-sentences) |
@@ -1046,6 +1048,7 @@
 | [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1764-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Bucket Sort
 |  |
