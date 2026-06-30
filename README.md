@@ -286,6 +286,7 @@
 | [1805-number-of-different-integers-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2122-count-special-quadruplets](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2122-count-special-quadruplets) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -400,6 +401,7 @@
 | [1850-minimum-length-of-string-after-deleting-similar-ends](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1850-minimum-length-of-string-after-deleting-similar-ends) |
 | [1880-check-if-word-equals-summation-of-two-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1880-check-if-word-equals-summation-of-two-words) |
 | [1894-merge-strings-alternately](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1894-merge-strings-alternately) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1954-replace-all-digits-with-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -910,6 +912,7 @@
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
