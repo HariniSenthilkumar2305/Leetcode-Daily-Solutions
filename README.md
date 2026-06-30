@@ -176,6 +176,7 @@
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -404,6 +405,7 @@
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1954-replace-all-digits-with-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1954-replace-all-digits-with-characters) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
