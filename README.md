@@ -147,6 +147,7 @@
 | [1062-partition-array-into-three-parts-with-equal-sum](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1062-partition-array-into-three-parts-with-equal-sum) |
 | [1073-number-of-enclaves](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1073-number-of-enclaves) |
 | [1127-last-stone-weight](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1127-last-stone-weight) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1168-duplicate-zeros](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1287-distance-between-bus-stops](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1287-distance-between-bus-stops) |
@@ -276,6 +277,7 @@
 | [0889-buddy-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0889-buddy-strings) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0924-fair-candy-swap](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0924-fair-candy-swap) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1319-unique-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -385,6 +387,7 @@
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1156-occurrences-after-bigram](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1156-occurrences-after-bigram) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1260-day-of-the-year](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1260-day-of-the-year) |
 | [1283-reformat-date](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1283-reformat-date) |
@@ -929,6 +932,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0819-most-common-word](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0819-most-common-word) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
+| [1160-find-words-that-can-be-formed-by-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1364-tuple-with-same-product) |
