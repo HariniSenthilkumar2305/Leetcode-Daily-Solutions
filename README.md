@@ -402,6 +402,7 @@
 | [1542-consecutive-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1542-consecutive-characters) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1576-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1576-replace-all-s-to-avoid-consecutive-repeating-characters) |
 | [1592-rearrange-spaces-between-words](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1592-rearrange-spaces-between-words) |
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
