@@ -369,6 +369,7 @@
 | [0459-repeated-substring-pattern](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0474-ones-and-zeroes) |
 | [0500-keyboard-row](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0500-keyboard-row) |
+| [0520-detect-capital](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/0551-student-attendance-record-i) |
