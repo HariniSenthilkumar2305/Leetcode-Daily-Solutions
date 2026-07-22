@@ -399,6 +399,7 @@
 | [1360-maximum-length-of-a-concatenated-string-with-unique-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1360-maximum-length-of-a-concatenated-string-with-unique-characters) |
 | [1370-increasing-decreasing-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1370-increasing-decreasing-string) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
+| [1446-consecutive-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1446-consecutive-characters) |
 | [1454-remove-palindromic-subsequences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1454-remove-palindromic-subsequences) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1524-string-matching-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1524-string-matching-in-an-array) |
