@@ -172,6 +172,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -413,6 +414,7 @@
 | [1619-path-crossing](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1619-path-crossing) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1666-make-the-string-great](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1666-make-the-string-great) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1698-replace-all-s-to-avoid-consecutive-repeating-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1698-replace-all-s-to-avoid-consecutive-repeating-characters) |
