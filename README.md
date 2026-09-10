@@ -172,6 +172,7 @@
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1603-running-sum-of-1d-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1651-shuffle-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1651-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -664,6 +665,7 @@
 | [1519-minimum-subsequence-in-non-increasing-order](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1519-minimum-subsequence-in-non-increasing-order) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1584-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1584-average-salary-excluding-the-minimum-and-maximum-salary) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -722,6 +724,7 @@
 | [1046-max-consecutive-ones-iii](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1646-kth-missing-positive-number](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Dynamic Programming
