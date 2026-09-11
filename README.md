@@ -181,6 +181,7 @@
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1748-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1755-defuse-the-bomb](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1755-defuse-the-bomb) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -300,6 +301,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1746-largest-substring-between-two-equal-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1746-largest-substring-between-two-equal-characters) |
+| [1748-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1763-longest-nice-substring](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1763-longest-nice-substring) |
 | [1805-number-of-different-integers-in-a-string](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1805-number-of-different-integers-in-a-string) |
 | [1813-maximum-erasure-value](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1813-maximum-erasure-value) |
@@ -964,6 +966,7 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1748-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1848-sum-of-unique-elements](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1848-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/HariniSenthilkumar2305/Leetcode-Daily-Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
